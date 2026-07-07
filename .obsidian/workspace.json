@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ISP.md",
+                "file": "buffer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ISP"
+              "title": "buffer"
             }
           }
         ]
@@ -180,25 +180,24 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false,
-      "terminal:Open terminal": false
+      "bases:Criar nova base": false
     }
   },
   "active": "0c27cbafd43a6882",
   "lastOpenFiles": [
-    "ISP.md",
-    "Capítulos/Conteúdo.md",
-    "buffer.md",
+    "Conceitos/Multiplexação por Divisão de Frequência (FDM).md",
+    "Conceitos/protocolos de Rede.md",
     "switches ( comutadores da área de enlace ).md",
+    "buffer.md",
     "LANs.md",
+    "ISP.md",
     "DSL.md",
+    "Capítulos/Conteúdo.md",
     "Conceitos/TCP.md",
     "Conceitos/**Multiplexação por Divisão de Tempo (TDM).md",
-    "Conceitos/Multiplexação por Divisão de Frequência (FDM).md",
     "Conceitos/Comutação de Circuitos.md",
     "Conceitos/Comutação de Pacotes.md",
     "Conceitos/IP.md",
-    "Conceitos/protocolos de Rede.md",
     "Conceitos",
     "Capítulos",
     "Bem-vindo.md",
