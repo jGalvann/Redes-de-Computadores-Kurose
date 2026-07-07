@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "960edf5ec8f897f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b904c89b843a156",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c27cbafd43a6882",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ISP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ISP"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "03ee005da0c0b957",
+    "type": "split",
+    "children": [
+      {
+        "id": "6bc21f9caeefcfcb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5d0568b684145b8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "634375263fdb4c90",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "4e6346bd867280b6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "58e0f11238e1d23a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7e0a0d55d01f230",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7f108fc19de1012",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ISP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para ISP"
+            }
+          },
+          {
+            "id": "b9a7890fd5ffd471",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ISP.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para ISP"
+            }
+          },
+          {
+            "id": "00c178bbee3dc275",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "dcd01d436642dfa1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "ab2b4912c92f9605",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ISP.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de ISP"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "terminal:Open terminal": false
+    }
+  },
+  "active": "0c27cbafd43a6882",
+  "lastOpenFiles": [
+    "ISP.md",
+    "Capítulos/Conteúdo.md",
+    "buffer.md",
+    "switches ( comutadores da área de enlace ).md",
+    "LANs.md",
+    "DSL.md",
+    "Conceitos/TCP.md",
+    "Conceitos/**Multiplexação por Divisão de Tempo (TDM).md",
+    "Conceitos/Multiplexação por Divisão de Frequência (FDM).md",
+    "Conceitos/Comutação de Circuitos.md",
+    "Conceitos/Comutação de Pacotes.md",
+    "Conceitos/IP.md",
+    "Conceitos/protocolos de Rede.md",
+    "Conceitos",
+    "Capítulos",
+    "Bem-vindo.md",
+    "Capítulos/Cap 1 - Redes de Computadores e a Internet",
+    "crie um link.md"
+  ]
+}

@@ -1,0 +1,3 @@
+- **Definição:** São dispositivos de infraestrutura usados principalmente dentro das redes locais (LANs) para interconectar vários hosts diretamente.
+    
+- **Diferença para o Roteador:** Enquanto o roteador trabalha na camada de rede (olhando endereços IP para mover dados _entre_ redes diferentes), o switch atua na camada de enlace. O papel do switch é comutar pacotes de dados localmente entre os dispositivos da _mesma_ rede, agindo como um ponto central de conexão estável e veloz.
