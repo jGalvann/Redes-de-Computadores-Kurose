@@ -9,3 +9,5 @@
     - _Ações:_ O que cada entidade deve fazer ao receber uma mensagem específica ou quando ocorre um evento (como um erro ou estouro de tempo).
         
 - **Analogia Humana:** É o equivalente a etiqueta social. Quando você quer falar com alguém, você diz "Olá" (formato/ordem) e espera a pessoa responder "Olá" antes de fazer uma pergunta. Se a pessoa ignorar, você toma uma ação diferente.
+
+ _Exemplo:_ **[[IP]]** (endereçamento e roteamento).

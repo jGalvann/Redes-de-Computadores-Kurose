@@ -8,17 +8,41 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0c27cbafd43a6882",
+            "id": "b25a758961f135d6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          },
+          {
+            "id": "c9d5caddbb119ada",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FTP.md",
+                "file": "Conceitos/protocolos de Rede.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FTP"
+              "title": "protocolos de Rede"
+            }
+          },
+          {
+            "id": "e1662c4fabee6d1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conceitos/Protocolos de Enlace.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Protocolos de Enlace"
             }
           }
         ]
@@ -180,35 +204,41 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false
+      "bases:Criar nova base": false,
+      "terminal:Open terminal": false
     }
   },
-  "active": "0c27cbafd43a6882",
+  "active": "b25a758961f135d6",
   "lastOpenFiles": [
-    "Capítulos/Cap 1/Conteúdo.md",
-    "FTP.md",
-    "Conceitos/buffer.md",
-    "Conceitos/Atraso de fila.md",
-    "Conceitos/roteador.md",
-    "Conceitos/DNS.md",
-    "Conceitos/IP.md",
-    "Capítulos/Cap 1/Exercícios de fixação e perguntas.md",
-    "Conceitos/Multiplexação por Divisão de Frequência (FDM).md",
-    "Redes de computadores.md",
-    "Capítulos/Cap 1",
+    "Conceitos/Web Cache ( servidor proxy ).md",
     "Conceitos/protocolos de Rede.md",
+    "Conceitos/Protocolos de Enlace.md",
+    "Conceitos/Protocolos.md",
+    "Conceitos/Protocolos de Transporte.md",
+    "Conceitos/UDP.md",
+    "Conceitos/Protocolos de Aplicação.md",
+    "Conceitos/Protocolos Não Orientados à Conexão.md",
+    "Conceitos/Protocolos Orientados à Conexão.md",
+    "Conceitos/HTTP.md",
+    "Capítulos/Cap 1/Conteúdo.md",
+    "Conceitos/Cache.md",
+    "Conceitos/Get Condicional.md",
+    "Conceitos/CDN - Content Delivery Networks.md",
+    "Conceitos/DNS.md",
+    "Conceitos/Socket.md",
+    "Conceitos/Processo.md",
+    "ISP.md",
+    "Conceitos/FTP.md",
     "Conceitos/switches ( comutadores da área de enlace ).md",
+    "Conceitos/roteador.md",
+    "Conceitos/buffer.md",
     "Conceitos/LANs.md",
     "Conceitos/ISP.md",
     "Conceitos/DSL.md",
-    "Conceitos/TCP.md",
-    "Conceitos/**Multiplexação por Divisão de Tempo (TDM).md",
-    "Conceitos/Comutação de Circuitos.md",
-    "Conceitos/Comutação de Pacotes.md",
+    "Conceitos/Atraso de fila.md",
+    "Capítulos/Cap 1",
     "Conceitos",
     "Capítulos",
-    "Bem-vindo.md",
-    "Capítulos/Cap 1 - Redes de Computadores e a Internet",
-    "crie um link.md"
+    "Capítulos/Cap 1 - Redes de Computadores e a Internet"
   ]
 }
