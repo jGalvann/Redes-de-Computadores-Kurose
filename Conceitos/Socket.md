@@ -4,8 +4,8 @@
 Um [[Processo]] envia mensagens para a rede e recebe mensagens dela através de uma interface de software denominada **SOCKET**.
 
 Para entender de forma simples, o livro faz uma analogia clássica:
-- O **Processo** é como uma **casa**.
 
+- O **Processo** é como uma **casa**.
 - O **Socket** é como a **porta** dessa casa.
 
 Quando um processo quer enviar uma mensagem para outro computador, ele empurra a mensagem para fora da porta (o socket). Do outro lado da porta, existe uma infraestrutura de transporte (a rua/correios) que se encarrega de levar a mensagem até a porta (socket) do destino. O processo de destino, então, recebe a mensagem assim que ela passa por sua própria porta.
