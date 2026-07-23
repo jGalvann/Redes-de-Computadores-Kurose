@@ -11,10 +11,14 @@
             "id": "c9d5caddbb119ada",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "Conceitos/WiFi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "WiFi"
             }
           },
           {
@@ -23,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conceitos/Protocolos de Enlace.md",
+                "file": "Conceitos/Proxy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Protocolos de Enlace"
+              "title": "Proxy"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "58e0f11238e1d23a",
@@ -196,17 +200,26 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e1662c4fabee6d1f",
+  "active": "c9d5caddbb119ada",
   "lastOpenFiles": [
-    "Conceitos/Proxy.md",
-    "Conceitos/Protocolos de Enlace.md",
-    "Conceitos/CDN - Content Delivery Networks.md",
-    "Conceitos/Cliente-servidor.md",
-    "Conceitos/Cache.md",
-    "Conceitos/buffer.md",
+    "Conceitos/WiFi.md",
+    "Conceitos/VoIP.md",
     "Conceitos/Atraso de fila.md",
-    "Capítulos/Cap 2/Conteúdo Cap 2.md",
+    "Conceitos/buffer.md",
+    "Conceitos/Protocolos.md",
+    "Conceitos/Protocolos de Enlace.md",
+    "Conceitos/protocolos de Rede.md",
+    "Conceitos/Protocolos de Transporte.md",
     "Conceitos/Protocolos de Aplicação.md",
+    "Conceitos/Protocolos Não Orientados à Conexão.md",
+    "Conceitos/Protocolos Orientados à Conexão.md",
+    "Conceitos/Ethernet.md",
+    "Conceitos/datacenter.md",
+    "Conceitos/Cliente-servidor.md",
+    "Conceitos/Proxy.md",
+    "Conceitos/CDN - Content Delivery Networks.md",
+    "Conceitos/Cache.md",
+    "Capítulos/Cap 2/Conteúdo Cap 2.md",
     "Conceitos/SMTP.md",
     "Conceitos/IP.md",
     "Conceitos/Multiplexação por Divisão de Frequência (FDM).md",
@@ -215,16 +228,7 @@
     "Conceitos/DNS.md",
     "Conceitos/HTTP.md",
     "Conceitos/UDP.md",
-    "Conceitos/Protocolos Não Orientados à Conexão.md",
-    "Conceitos/Protocolos Orientados à Conexão.md",
-    "Conceitos/Socket.md",
-    "Conceitos/Processo.md",
-    "Capítulos/Cap 1/Conteúdo Cap 1.md",
     "Capítulos/Cap 2",
-    "Conceitos/protocolos de Rede.md",
-    "Conceitos/DSL.md",
-    "Conceitos/Web Cache ( servidor proxy ).md",
-    "Conceitos/Protocolos.md",
     "Capítulos/Cap 1",
     "Conceitos",
     "Capítulos",
